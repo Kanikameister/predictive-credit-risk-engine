@@ -1,0 +1,15 @@
+Statistic,Value
+Training observations,23972.0
+Testing observations,5993.0
+Number of predictors,30.0
+Best C value,100.0
+Accuracy,0.8142833305523111
+Precision,0.7310195227765727
+Recall,0.25414781297134237
+F1-Score,0.37716843872411865
+ROC-AUC,0.7186854138731527
+Average Precision,0.5057732961604535
+True Negatives,4543.0
+False Positives,124.0
+False Negatives,989.0
+True Positives,337.0
